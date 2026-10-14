@@ -32,4 +32,9 @@ background in business intelligence at Turkish Technic.
 Python · SQL · Azure · Databricks · Snowflake · PostgreSQL  
 Power BI · Tableau · MicroStrategy · Git
 
+### Repositories
+
+4 repositories: 3 private projects and this public profile.  
+Built with Python, TypeScript and JavaScript on Databricks, Snowflake and the web.
+
 [LinkedIn](https://www.linkedin.com/in/okanozkarakasoglu/)
