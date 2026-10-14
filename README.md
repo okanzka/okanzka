@@ -1,16 +1,35 @@
-## Hi there 👋
+# Okan Özkarakaşoğlu
 
-<!--
-**okanzka/okanzka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Technical Manager, Data & Analytics · Nuremberg, Germany**
 
-Here are some ideas to get you started:
+I design and build data platforms and analytics applications that help
+teams make better decisions. My work spans data architecture, engineering,
+and technical leadership, from understanding business requirements to
+delivering and operating solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently at **BeeBI Consulting**, with experience delivering data and
+analytics solutions for adidas and Coca-Cola Bottlers Japan, and a
+background in business intelligence at Turkish Technic.
+
+### Focus
+
+- Data architecture, integration, and reliable analytics platforms
+- Pricing, assortment planning, and commercial analytics
+- Inventory optimization and supply chain intelligence
+- Technical delivery across international teams
+
+### Selected experience
+
+- **adidas** — Data solutions for assortment planning, global reporting,
+  markdown optimization, and product ranging.
+- **Coca-Cola Bottlers Japan** — Azure data pipelines and inventory
+  efficiency algorithms supporting supply chain operations.
+- **Turkish Technic** — Enterprise BI, data warehousing, and
+  MicroStrategy implementation, including product ownership.
+
+### Technologies
+
+Python · SQL · Azure · Databricks · Snowflake · PostgreSQL  
+Power BI · Tableau · MicroStrategy · Git
+
+[LinkedIn](https://www.linkedin.com/in/okanozkarakasoglu/)
